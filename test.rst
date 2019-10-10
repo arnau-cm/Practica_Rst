@@ -27,7 +27,7 @@ facilidad de instalación y su simplicidad de uso a pesar del gran número de fu
 de módulos
 
 +------------+------------+-----------+-----------+
-| Header 1   | Header 2   | Header 3  | Header 4  |
+| Módulos principales  | Otros módulos   | Diversos  | Funcionalidades que faltan  |
 +============+============+===========+===========+
 | body row 1 | column 2   | column 3  | column 3  |
 +------------+------------+-----------+-----------+
@@ -38,12 +38,6 @@ de módulos
 | body row 4 |            | - blocks. | - Cells   |
 +------------+------------+-----------+-----------+
 
-[cols=4*^,options="header"]
-|===
-|Módulos principales
-|Otros módulos
-|Diversos
-|Funcionalidades que faltan
 
 |Catálogo de clientes y/o clientes potenciales y/o proveedores
 |Generación de PDF (facturas, pedidos, presupuestos...)
