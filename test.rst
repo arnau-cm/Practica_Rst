@@ -26,17 +26,17 @@ Está basado en diferentes módulos más o menos dependientes unos de otros. Se 
 facilidad de instalación y su simplicidad de uso a pesar del gran número de funcionalidades que se activan a través
 de módulos
 
-+------------+------------+-----------+-----------+
++----------------------+-----------------+-----------+-----------------------------+
 | Módulos principales  | Otros módulos   | Diversos  | Funcionalidades que faltan  |
-+============+============+===========+===========+
-| body row 1 | column 2   | column 3  | column 3  |
-+------------+------------+-----------+-----------+
-| body row 2 | Cells may span columns.| - Cells   |
-+------------+------------+-----------+-----------+
-| body row 3 | Cells may  | - Cells   | - Cells   |
-+------------+ span rows. | - contain | - Cells   |
-| body row 4 |            | - blocks. | - Cells   |
-+------------+------------+-----------+-----------+
++======================+=================+===========+=============================+
+| body row 1           | column 2        | column 3  | column                      |
++----------------------+-----------------+-----------+-----------------------------+
+| body row 2           | Cells may span  | - Cells   |                             |
++----------------------+-----------------+-----------+-----------------------------+
+| body row 3           | Cells may       | - Cells   | - Cells                     |
++----------------------+-----------------+-----------+-----------------------------+
+| body row 4           |                 | - blocks. | - Cells                     |
++----------------------+-----------------+-----------+-----------------------------+
 
 
 |Catálogo de clientes y/o clientes potenciales y/o proveedores
