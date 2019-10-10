@@ -57,7 +57,7 @@ Para los menos experimentados, que trabajan bajo windows, existe una distribuci�
 que permite realizar una instalación Dolibarr bajo Windows con todos sus prerequisitos (Apache, MySql, PHP)
 sin conocimientos informáticos. Como instalarla:
 
-Consigua la versión de http://www.dolibarr.es/[Dolibarr] para Windows. 
+Consigua la versión de `Dolibarr <http://www.dolibarr.es/>`_ para Windows. 
 
 Una vez dentro de la Web de Dolibarr, le daremos a Descargar. Y seguidamente, en versiones estables le daremos a
 Descargar
