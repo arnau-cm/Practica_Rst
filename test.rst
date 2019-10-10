@@ -26,40 +26,29 @@ Está basado en diferentes módulos más o menos dependientes unos de otros. Se 
 facilidad de instalación y su simplicidad de uso a pesar del gran número de funcionalidades que se activan a través
 de módulos
 
-+----------------------+-----------------+-----------+-----------------------------+
-| Módulos principales  | Otros módulos   | Diversos  | Funcionalidades que faltan  |
-+======================+=================+===========+=============================+
-| body row 1           | column 2        | column 3  | column                      |
-+----------------------+-----------------+-----------+-----------------------------+
-| body row 2           | Cells may span  | - Cells   |                             |
-+----------------------+-----------------+-----------+-----------------------------+
-| body row 3           | Cells may       | - Cells   | - Cells                     |
-+----------------------+-----------------+-----------+-----------------------------+
-| body row 4           |                 | - blocks. | - Cells                     |
-+----------------------+-----------------+-----------+-----------------------------+
-
-
-|Catálogo de clientes y/o clientes potenciales y/o proveedores
-|Generación de PDF (facturas, pedidos, presupuestos...)
-|Multi-usuario, permisos por funcionalidades
-|Sin módulo de gestión de recursos humanos
-
-|Anuario de clientes, clientes potenciales, proveedores
-|Gestión de miembros de una asociación
-|Varios gestores de menú (diferentes para los usuarios internos en back-office y para los externos en front-office)
-|Adopción de las Normas Internacionales de Información Financiera(NIIF)
-
-|Gestión de cuentas bancarias/Cajas
-|Conectividad LDAP
-|Muy simple de instalar y de usa
-|
-
-|Control de pagos
-|Gestión de subvenciones
-|Funciona con MySQL 3.1 o superior2
-|
-
-|===
++----------------------+----------------------+----------------------+-----------------------------+
+| Módulos principales  | Otros módulos        |       Diversos       | Funcionalidades que faltan  |
++======================+======================+======================+=============================+
+| Catálogo de clientes | Generación de        | Multi-usuario,       | Sin módulo de gestión de    |
+| y/o clientes         | PDF (facturas,       | permisos por         | recursos humanos            |
+| potenciales          | pedidos,             | funcionalidades      |                             |
+| y/o proveedores      | presupuestos...)     |                      |                             |
++----------------------+----------------------+----------------------+-----------------------------+
+| Anuario de clientes, | Gestión de miembros  | Varios gestores      | Adopción de las NIIF        |
+| clientes potenciales,| de una asociación    | de menú              |                             |
+| proveedores          |                      |                      |                             |
+|                      |                      |                      |                             |
++----------------------+----------------------+----------------------+-----------------------------+
+| Gestión de cuentas   | Conectividad LDAP    | Muy simple de        |                             |
+| bancarias/Cajas      |                      | instalar y de usar   |                             |
+|                      |                      |                      |                             |
+|                      |                      |                      |                             |
++----------------------+----------------------+----------------------+-----------------------------+
+| Control de pagos     | Gestión de           | Funciona con MySQL   |                             |
+|                      | subvenciones         | 3.1 o superior       |                             |
+|                      |                      |                      |                             |
+|                      |                      |                      |                             |
++----------------------+----------------------+----------------------+-----------------------------+
 
 Procedimiento de Instalacion
 ~~~~~~~~~~~~~~~~~~~~~~~~~
