@@ -66,8 +66,10 @@ Descargar
     Para guiarse utiliza las imágenes que vamos a poner en el transcurso de la documentación
 
 .. image:: ./Recursos/1.PNG
+    :align: center
 
 .. image:: ./Recursos/2.PNG
+    :align: center
 
 
 En el siguiente paso tendremos que selecciona el instalador apropiado para nuestra plataforma. En nuestro caso
@@ -75,10 +77,12 @@ seleccionaremos "Dolibarr installer for Windows" o directamente pulsaremos el bo
 
 
 .. image:: ./Recursos/3.PNG
+    :align: center
 
 Entonces, nos podremos dirigir a la carpeta de Descargas y buscar el ejecutable siguiente:
 
 .. image:: ./Recursos/4.PNG
+    :align: center
 
 Una vez encontrado el ejecutable, hacemos doble click y empezamos la instalación.
 
@@ -86,10 +90,13 @@ Una vez encontrado el ejecutable, hacemos doble click y empezamos la instalació
     En estos pasos, todo será darle a siguiente
 
 .. image:: ./Recursos/5.PNG
+    :align: center
 
 .. image:: ./Recursos/6.PNG
+    :align: center
 
 .. image:: ./Recursos/7.PNG
+    :align: center
 
 .. seealso::
      Si usted desea tener un icono en el escritorio o inicio ràpido solo tendra que aceptarlo en el checkbox
@@ -102,12 +109,16 @@ Seguidamente podremos darle al boton de instalar. Esperaremos unos segundos y en
 siguiente, y finalmente al btn:[Finalizar] boton.
 
 .. image:: ./Recursos/8.PNG
+    :align: center
 
 .. image:: ./Recursos/9.PNG
+    :align: center
 
 .. image:: ./Recursos/10.PNG
+    :align: center
 
 .. image:: ./Recursos/13.PNG
+    :align: center
 
 Procedimiento de actualización 
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -121,28 +132,38 @@ base de datos. Escoja la opción acorde a su caso.
 Si su instalación es muy antigua, deberá ejecutar todos los pasos de actualización uno a uno hasta llegar a la versión más reciente. 
 
 .. image:: ./Recursos/14.PNG
+    :align: center
 
 .. image:: ./Recursos/15.PNG
+    :align: center
 
 .. image:: ./Recursos/16.PNG
+    :align: center
 
 .. image:: ./Recursos/17.PNG
+    :align: center
 
 .. image:: ./Recursos/18.PNG
+    :align: center
 
 .. image:: ./Recursos/19.PNG
+    :align: center
 
 .. image:: ./Recursos/20.PNG
+    :align: center
 
 .. image:: ./Recursos/21.PNG
+    :align: center
 
 .. warning::  
     En el siguiente paso, debe ingresar la contrasenya que va utilizar para el usuario administrador. Tal y como le
     mostramos en la imagen de abajo
 
 .. image:: ./Recursos/22.PNG
+    :align: center
 
 .. image:: ./Recursos/23.PNG
+    :align: center
 
 Primeras configuraciones
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -153,26 +174,32 @@ sus necesidades antes de su puesta en funcionamiento.
 Primero debe iniciar sesión con el usuario admin y la contraseña establecida anteriormente.
 
 .. image:: ./Recursos/24.PNG
+    :align: center
 
 Una vez hecho el login estaremos en la area de configuración.
 
 .. image:: ./Recursos/25.PNG
+    :align: center
 
 Empresa/Institución
 -------------------------------- 
 
-* *Nombre*: Nombre de la empresa o asociación
-* *Logo*: Añada aquí su logo (.PNG, .jpg or .gif). No hay recomendación de tamaño, pero es mejor un formato.PNG SIN fondo transparente (Dolibarr usa FPDF que no gestiona ese tipo de fichero). En caso de duda, utilice un logotipo en formato jpg con un fondo blanco.
-* *País* No olvide indicar su país, ya que algunas opciones dependen de ello.
-* *IVA*: Indique si usted se encuentra sometido o no a IVA. 
+* **Nombre**: Nombre de la empresa o asociación
+* **Logo**: Añada aquí su logo (.PNG, .jpg or .gif). No hay recomendación de tamaño, pero es mejor un formato.PNG SIN fondo transparente (Dolibarr usa FPDF que no gestiona ese tipo de fichero). En caso de duda, utilice un logotipo en formato jpg con un fondo blanco.
+* **País**: No olvide indicar su país, ya que algunas opciones dependen de ello.
+* **IVA**: Indique si usted se encuentra sometido o no a IVA. 
 
 .. image:: ./Recursos/26.PNG
+    :align: center
 
 .. image:: ./Recursos/27.PNG
+    :align: center
 
 .. image:: ./Recursos/28.PNG
+    :align: center
 
 .. image:: ./Recursos/29.PNG
+    :align: center
 
 Módulos 
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -188,4 +215,4 @@ Si no está seguro de que módulos activar, vaya uno tras otro y vea las caracte
 Una vez activados, algunos módulos requieren configuración adicional (haga clic en el icono que aparece en la misma línea). Véase Listado de Módulos para más información. 
 
 .. image:: ./Recursos/30.PNG
-
+    :align: center
