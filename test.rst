@@ -102,8 +102,8 @@ Una vez encontrado el ejecutable, hacemos doble click y empezamos la instalació
      Si usted desea tener un icono en el escritorio o inicio ràpido solo tendra que aceptarlo en el checkbox
 
 
-:✔: Crear un icono de Inicio ràpido
-:✔: Crear un icono en el escritorio
+:✔ Crear un icono de Inicio ràpido
+:✔ Crear un icono en el escritorio
 
 Seguidamente podremos darle al boton de instalar. Esperaremos unos segundos y en los parametros técnicos le daremos 
 siguiente, y finalmente al btn:[Finalizar] boton.
