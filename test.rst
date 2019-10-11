@@ -158,7 +158,8 @@ Una vez hecho el login estaremos en la area de configuración.
 
 .. image:: ./Recursos/25.PNG
 
-=== Empresa/Institución 
+Empresa/Institución
+-------------------------------- 
 
 * *Nombre*: Nombre de la empresa o asociación
 * *Logo*: Añada aquí su logo (.PNG, .jpg or .gif). No hay recomendación de tamaño, pero es mejor un formato.PNG SIN fondo transparente (Dolibarr usa FPDF que no gestiona ese tipo de fichero). En caso de duda, utilice un logotipo en formato jpg con un fondo blanco.
