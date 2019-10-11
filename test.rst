@@ -66,8 +66,6 @@ Descargar
 
 .. image:: ./Recursos/1.png[]
 
-'''
-
 .. image::./Recursos/2.png[align=center]
 
 
@@ -87,11 +85,7 @@ NOTE: En estos pasos, todo será darle a siguiente
 
 .. image::./Recursos/5.png[align=center]
 
-'''
-
 .. image::./Recursos/6.png[align=center]
-
-'''
 
 .. image::./Recursos/7.png[align=center]
 
@@ -106,15 +100,9 @@ siguiente, y finalmente al btn:[Finalizar] boton.
 
 .. image::./Recursos/8.png[align=center]
 
-'''
-
 .. image::./Recursos/9.png[align=center]
 
-'''
-
 .. image::./Recursos/10.png[align=center]
-
-'''
 
 .. image::./Recursos/13.png[align=center]
 
@@ -131,42 +119,24 @@ Si su instalación es muy antigua, deberá ejecutar todos los pasos de actualiza
 
 .. image::./Recursos/14.png[align=center]
 
-'''
-
 .. image::./Recursos/15.png[align=center]
-
-'''
 
 .. image::./Recursos/16.png[align=center]
 
-'''
-
 .. image::./Recursos/17.png[align=center]
-
-'''
 
 .. image::./Recursos/18.png[align=center]
 
-'''
-
 .. image::./Recursos/19.png[align=center]
-
-'''
 
 .. image::./Recursos/20.png[align=center]
 
-'''
-
 .. image::./Recursos/21.png[align=center]
-
-'''
 
 IMPORTANT: En el siguiente paso, debe ingresar la contrasenya que va utilizar para el usuario administrador. Tal y como le
             mostramos en la imagen de abajo
 
 .. image::./Recursos/22.png[align=center]
-
-'''
 
 .. image::./Recursos/23.png[align=center]
 
@@ -193,15 +163,9 @@ Una vez hecho el login estaremos en la area de configuración.
 
 .. image::./Recursos/26.png[align=center]
 
-'''
-
 .. image::./Recursos/27.png[align=center]
 
-'''
-
 .. image::./Recursos/28.png[align=center]
-
-'''
 
 .. image::./Recursos/29.png[align=center]
 
