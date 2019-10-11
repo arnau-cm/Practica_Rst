@@ -57,43 +57,43 @@ Para los menos experimentados, que trabajan bajo windows, existe una distribuci�
 que permite realizar una instalación Dolibarr bajo Windows con todos sus prerequisitos (Apache, MySql, PHP)
 sin conocimientos informáticos. Como instalarla:
 
-Consigua la versión de `Dolibarr <http://www.dolibarr.es/>`_ para Windows. 
+Consiga la versión de `Dolibarr <http://www.dolibarr.es/>`_ para Windows. 
 
 Una vez dentro de la Web de Dolibarr, le daremos a Descargar. Y seguidamente, en versiones estables le daremos a
 Descargar
 
-NOTE: Para guiarse utiliza las imágenes que vamos a poner en el transcurso de la documentación
+.. note:: Para guiarse utiliza las imágenes que vamos a poner en el transcurso de la documentación
 
-image:./Recursos/1.png[]
+.. image:: ./Recursos/1.png[]
 
 '''
 
-image::./Recursos/2.png[align=center]
+.. image::./Recursos/2.png[align=center]
 
 
 En el siguiente paso tendremos que selecciona el instalador apropiado para nuestra plataforma. En nuestro caso
 seleccionaremos "Dolibarr installer for Windows" o directamente pulsaremos el botón de Download Latest Version
 
 
-image::./Recursos/3.png[align=center]
+.. image::./Recursos/3.png[align=center]
 
 Entonces, nos podremos dirigir a la carpeta de Descargas y buscar el ejecutable siguiente:
 
-image::./Recursos/4.png[]
+.. image::./Recursos/4.png[]
 
 Una vez encontrado el ejecutable, hacemos doble click y empezamos la instalación.
 
 NOTE: En estos pasos, todo será darle a siguiente
 
-image::./Recursos/5.png[align=center]
+.. image::./Recursos/5.png[align=center]
 
 '''
 
-image::./Recursos/6.png[align=center]
+.. image::./Recursos/6.png[align=center]
 
 '''
 
-image::./Recursos/7.png[align=center]
+.. image::./Recursos/7.png[align=center]
 
 TIP: Si usted desea tener un icono en el escritorio o inicio ràpido solo tendra que aceptarlo en el checkbox
 
@@ -104,19 +104,19 @@ TIP: Si usted desea tener un icono en el escritorio o inicio ràpido solo tendra
 Seguidamente podremos darle al boton de instalar. Esperaremos unos segundos y en los parametros técnicos le daremos 
 siguiente, y finalmente al btn:[Finalizar] boton.
 
-image::./Recursos/8.png[align=center]
+.. image::./Recursos/8.png[align=center]
 
 '''
 
-image::./Recursos/9.png[align=center]
+.. image::./Recursos/9.png[align=center]
 
 '''
 
-image::./Recursos/10.png[align=center]
+.. image::./Recursos/10.png[align=center]
 
 '''
 
-image::./Recursos/13.png[align=center]
+.. image::./Recursos/13.png[align=center]
 
 Procedimiento de actualización 
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -129,46 +129,46 @@ base de datos. Escoja la opción acorde a su caso.
 
 Si su instalación es muy antigua, deberá ejecutar todos los pasos de actualización uno a uno hasta llegar a la versión más reciente. 
 
-image::./Recursos/14.png[align=center]
+.. image::./Recursos/14.png[align=center]
 
 '''
 
-image::./Recursos/15.png[align=center]
+.. image::./Recursos/15.png[align=center]
 
 '''
 
-image::./Recursos/16.png[align=center]
+.. image::./Recursos/16.png[align=center]
 
 '''
 
-image::./Recursos/17.png[align=center]
+.. image::./Recursos/17.png[align=center]
 
 '''
 
-image::./Recursos/18.png[align=center]
+.. image::./Recursos/18.png[align=center]
 
 '''
 
-image::./Recursos/19.png[align=center]
+.. image::./Recursos/19.png[align=center]
 
 '''
 
-image::./Recursos/20.png[align=center]
+.. image::./Recursos/20.png[align=center]
 
 '''
 
-image::./Recursos/21.png[align=center]
+.. image::./Recursos/21.png[align=center]
 
 '''
 
 IMPORTANT: En el siguiente paso, debe ingresar la contrasenya que va utilizar para el usuario administrador. Tal y como le
             mostramos en la imagen de abajo
 
-image::./Recursos/22.png[align=center]
+.. image::./Recursos/22.png[align=center]
 
 '''
 
-image::./Recursos/23.png[align=center]
+.. image::./Recursos/23.png[align=center]
 
 Primeras configuraciones
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -178,11 +178,11 @@ sus necesidades antes de su puesta en funcionamiento.
 
 Primero debe iniciar sesión con el usuario admin y la contraseña establecida anteriormente.
 
-image::./Recursos/24.png[align=center]
+.. image::./Recursos/24.png[align=center]
 
 Una vez hecho el login estaremos en la area de configuración.
 
-image::./Recursos/25.png[align=center]
+.. image::./Recursos/25.png[align=center]
 
 === Empresa/Institución 
 
@@ -191,19 +191,19 @@ image::./Recursos/25.png[align=center]
 * *País* No olvide indicar su país, ya que algunas opciones dependen de ello.
 * *IVA*: Indique si usted se encuentra sometido o no a IVA. 
 
-image::./Recursos/26.png[align=center]
+.. image::./Recursos/26.png[align=center]
 
 '''
 
-image::./Recursos/27.png[align=center]
+.. image::./Recursos/27.png[align=center]
 
 '''
 
-image::./Recursos/28.png[align=center]
+.. image::./Recursos/28.png[align=center]
 
 '''
 
-image::./Recursos/29.png[align=center]
+.. image::./Recursos/29.png[align=center]
 
 Módulos 
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -218,5 +218,5 @@ Si no está seguro de que módulos activar, vaya uno tras otro y vea las caracte
 
 Una vez activados, algunos módulos requieren configuración adicional (haga clic en el icono que aparece en la misma línea). Véase Listado de Módulos para más información. 
 
-image::./Recursos/30.png[align=center]
+.. image::./Recursos/30.png[align=center]
 
