@@ -1,4 +1,4 @@
-DOCUMENTACIÓ INSTALACIÓ DOLIBARR
+DOCUMENTACIÓN INSTALACIÓN DOLIBARR
 =========================================
 
 .. sectnum::
@@ -8,7 +8,7 @@ DOCUMENTACIÓ INSTALACIÓ DOLIBARR
 Introduccion
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
-En esta documentacion os ensenyaremos como instalar un ERP como es el caso de Dolibarr en la
+En esta documentación os ensenyaremos como instalar un ERP como es el caso de Dolibarr en la
 plataforma Windows.
 
 Que es Dolibarr?
@@ -102,8 +102,8 @@ Una vez encontrado el ejecutable, hacemos doble click y empezamos la instalació
      Si usted desea tener un icono en el escritorio o inicio ràpido solo tendra que aceptarlo en el checkbox
 
 
-* [*] Crear un icono de Inicio ràpido
-* [x] Crear un icono en el escritorio
+:✔: Crear un icono de Inicio ràpido
+:✔: Crear un icono en el escritorio
 
 Seguidamente podremos darle al boton de instalar. Esperaremos unos segundos y en los parametros técnicos le daremos 
 siguiente, y finalmente al btn:[Finalizar] boton.
