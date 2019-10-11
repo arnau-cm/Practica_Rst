@@ -62,7 +62,8 @@ Consiga la versión de `Dolibarr <http://www.dolibarr.es/>`_ para Windows.
 Una vez dentro de la Web de Dolibarr, le daremos a Descargar. Y seguidamente, en versiones estables le daremos a
 Descargar
 
-:Nota: Para guiarse utiliza las imágenes que vamos a poner en el transcurso de la documentación
+.. note::
+    Para guiarse utiliza las imágenes que vamos a poner en el transcurso de la documentación
 
 .. image:: ./Recursos/1.PNG
 
@@ -81,7 +82,8 @@ Entonces, nos podremos dirigir a la carpeta de Descargas y buscar el ejecutable 
 
 Una vez encontrado el ejecutable, hacemos doble click y empezamos la instalación.
 
-NOTE: En estos pasos, todo será darle a siguiente
+.. note:: 
+    En estos pasos, todo será darle a siguiente
 
 .. image:: ./Recursos/5.PNG
 
@@ -89,7 +91,8 @@ NOTE: En estos pasos, todo será darle a siguiente
 
 .. image:: ./Recursos/7.PNG
 
-TIP: Si usted desea tener un icono en el escritorio o inicio ràpido solo tendra que aceptarlo en el checkbox
+.. seealso::
+     Si usted desea tener un icono en el escritorio o inicio ràpido solo tendra que aceptarlo en el checkbox
 
 
 * [*] Crear un icono de Inicio ràpido
@@ -133,8 +136,9 @@ Si su instalación es muy antigua, deberá ejecutar todos los pasos de actualiza
 
 .. image:: ./Recursos/21.PNG
 
-IMPORTANT: En el siguiente paso, debe ingresar la contrasenya que va utilizar para el usuario administrador. Tal y como le
-            mostramos en la imagen de abajo
+.. warning::  
+    En el siguiente paso, debe ingresar la contrasenya que va utilizar para el usuario administrador. Tal y como le
+    mostramos en la imagen de abajo
 
 .. image:: ./Recursos/22.PNG
 
