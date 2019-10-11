@@ -62,7 +62,7 @@ Consiga la versión de `Dolibarr <http://www.dolibarr.es/>`_ para Windows.
 Una vez dentro de la Web de Dolibarr, le daremos a Descargar. Y seguidamente, en versiones estables le daremos a
 Descargar
 
-.. seealso:: Para guiarse utiliza las imágenes que vamos a poner en el transcurso de la documentación
+:alt: Warning! Para guiarse utiliza las imágenes que vamos a poner en el transcurso de la documentación
 
 .. image:: ./Recursos/1.png[]
 
